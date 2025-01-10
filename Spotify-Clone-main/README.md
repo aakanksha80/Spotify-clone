@@ -15,7 +15,7 @@ Installation Instructions:
 - Open the index.html file in your web browser to view the Spotify clone.
 
 
-Usage: Explore the various features of the Amazon clone, including browsing products and simulating a user login. 
+
 
 Credits: 
 - The project utilizes HTML and CSS for the front-end design.
